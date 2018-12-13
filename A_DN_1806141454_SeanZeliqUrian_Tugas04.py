@@ -20,7 +20,7 @@ class Clock:
         self.master.iconbitmap("Clock & Timer3.ico")
         self.master.configure(background='#5d5f60')
         self.master.title("Clock & Timer")
-        self.master.geometry("505x530")
+        self.master.geometry("504x530")
         self.master.resizable(0,0)
 
         # Membuat kanvas untuk display jam dan timer
